@@ -1,0 +1,13 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="|e9+.zuudW5^L*LJ/ZSK">Name</variable></variables><block type="pxt-on-start" id="D;d+q[D/Q+OqqP`eDAnG" x="0" y="0"></block><block type="device_forever" id="kARXU.ktBzO988A{WC7f" x="211" y="-6"></block><block type="function_definition" id="k[/@_+iRZG8|{.zvv43D" x="74" y="76"><mutation name="light" functionid="n*[20XPfM2Pzgn3zbq)J"></mutation><field name="function_name">light</field><statement name="STACK"><block type="device_show_leds" id="cG2Re53$u6]I.pr8EUGb"><field name="LEDS">`
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # # 
+        # # # # #
+        `</field><next><block type="device_pause" id="o9WlUp*F{ya$!G5Jxq-a"><value name="pause"><shadow type="timePicker" id="%Qdc|Ka#.,RuAW2zG@vP"><field name="ms">1000</field></shadow></value><next><block type="device_show_leds" id="vW)xw9;x]I*qwB83|b#f"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_pause" id="~a5;QK{7Yp)VVz1-GyR4"><value name="pause"><shadow type="timePicker" id="uu}=n$1pO0p*y:nkFJ(="><field name="ms">1000</field></shadow></value></block></next></block></next></block></next></block></statement></block><block type="device_button_event" id="GcQqZj)V%M#Vl%!75$)." x="282" y="157"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="function_call" id="7[RSR~fth(RP=75J/yJ("><mutation name="light" functionid="n*[20XPfM2Pzgn3zbq)J"></mutation></block></statement></block></xml>
